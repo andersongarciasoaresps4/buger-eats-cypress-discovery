@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Joao Da Lua",
+        "cpf": "35758455814",
+        "email": "joaodalua@gmail.com",
+        "whatsapp": "(11) 99232-5454",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Apt 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv":{
+        "name": "Nad Nad",
+        "cpf": "357584558AA",
+        "email": "galingalin@gmail.com",
+        "whatsapp": "(11) 99232-5454",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Apt 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+     },
+     "email_inv": {
+        "name": "Joao Da Lua",
+        "cpf": "35758455814",
+        "email": "boladao.com.br",
+        "whatsapp": "(11) 99232-5454",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Apt 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+     }
+    }
